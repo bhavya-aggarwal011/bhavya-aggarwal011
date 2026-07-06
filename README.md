@@ -22,7 +22,7 @@
   
 ## 📊 GitHub Stats
 
-![GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavya-aggarwal011&show_icons=true&theme=tokyonight&cache_seconds=1800))
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bhavya-aggarwal011&show_icons=true&theme=tokyonight)
 
 
 ### Languages & Tools
