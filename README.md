@@ -24,6 +24,11 @@
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bhavya-aggarwal011&show_icons=true&theme=tokyonight)
 
+## Github Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=bhavya-aggarwal011&theme=tokyonight)
+
+## Top Languages
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhavya-aggarwal011&layout=compact&theme=tokyonight)
 
 ### Languages & Tools
 
